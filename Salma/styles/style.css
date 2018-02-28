@@ -16,7 +16,7 @@
           border-radius: 1em;
       }
 
-      div+div {
+      section+section {
           margin-top: 1em;
       }
 
@@ -51,7 +51,7 @@
       fieldset {
           width: 250px;
           box-sizing: border-box;
-          margin-left: 136px;
+          margin-left: 124px;
           border: 1px solid #999;
       }
 
